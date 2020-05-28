@@ -14,4 +14,6 @@
 8. Запустіть проект, впевніться, що все працює як очікувалось. Продемонстрируйте результат викладачеві.
 
 <img src="https://github.com/ppc-ntu-khpi/gui-lab1-34-34-golovnia-yana/blob/master/image1.png" width="50%"/>
+## Звіт за клієнтами:
+
 <img src="https://github.com/ppc-ntu-khpi/gui-lab1-34-34-golovnia-yana/blob/master/image2.png" width="50%"/>
